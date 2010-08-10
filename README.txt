@@ -1,10 +1,7 @@
-Installation
-------------
+Sparkup plugin for vim by rstacruz (http://github.com/rstacruz/sparkup), packaged to work with tpope's pathogen (http://www.vim.org/scripts/script.php?script_id=2332)
 
-   Copy the contents of vim/ftplugin/ to your ~/.vim/ftplugin directory.
+Install to .vim/bundles with git submodule add http://github.com/bingaman/vim-sparkup.git 
 
-       (Assuming your current dir is sparkup/vim/)
-       $ cp -R ftplugin ~/.vim/
 
 Configuration
 -------------

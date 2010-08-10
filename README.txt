@@ -1,6 +1,8 @@
 Sparkup plugin for vim by rstacruz (http://github.com/rstacruz/sparkup), packaged to work with tpope's pathogen (http://www.vim.org/scripts/script.php?script_id=2332)
 
-Install to .vim/bundles with git submodule add http://github.com/bingaman/vim-sparkup.git 
+Install to .vim/ with git submodule add http://github.com/bingaman/vim-sparkup.git bundle/vim-sparkup
+
+Assumes you're using pathogen already
 
 
 Configuration
